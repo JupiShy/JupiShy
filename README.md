@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning .Net and Java
 - 🤓 I study in PPPC
 - 🔭 I’m currently working on my college OOP Practice (Java) and some own projects on MAUI
+- ✨ Fun fact: I drew my avatar myself
 
 <!--
 **JupiShy/JupiShy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
