@@ -9,5 +9,5 @@
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-![JupiShy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JupiShy&hide=contribs,prs&theme=radical&rank_icon=github)
+![JupiShy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JupiShy&hide=contribs,prs&theme=tokyonight&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JupiShy&layout=compact&theme=radical)
