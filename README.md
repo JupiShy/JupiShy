@@ -4,7 +4,8 @@
 - 🍄 I'm a beginner developer
 - 🌱 I’m currently learning .Net and Java
 - 🤓 I study in PPPC
-- 🔭 I’m currently working on my college OOP Practice (Java) and some own projects on MAUI
+- 🔭 I’m currently working on my college 
+Software Development Technology Practice (WEB dev)
 - ✨ Fun fact: I drew my avatar myself
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
