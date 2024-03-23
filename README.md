@@ -2,7 +2,7 @@
 
 - ☕ My name is Sofiia
 - 🍄 I'm a beginner developer
-- 🌱 I’m currently learning .Net and Java
+- 🌱 I’m currently learning .Net and HTML/CSS/JS
 - 🤓 I study in PPPC
 - 🔭 I’m currently working on my college 
 Software Development Technology Practice (WEB dev)
