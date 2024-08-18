@@ -2,9 +2,9 @@
 
 - ☕ My name is Sofiia
 - 🍄 I'm a beginner developer
-- 🌱 I’m currently learning ASP.Net
+- 🌱 I’m currently learning .NET
 - 🤓 I study in PPPC
-- 🔭 I’m currently working on my college homework and pet projects
+- 🔭 I’m currently working on my first C# TG Bot
 - ✨ Fun fact: I drew my avatar myself
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
