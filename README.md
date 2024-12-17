@@ -4,7 +4,7 @@
 - 🍄 I'm a beginner developer
 - 🌱 I’m currently learning .NET and Flutter
 - 🤓 I study in PPPC
-- 🔭 I’m currently working on (???)
+- 🔭 I’m currently working on Flutter Meditation App
 - ✨ Fun fact: I drew my avatar myself
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
