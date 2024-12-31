@@ -2,9 +2,9 @@
 
 - ☕ My name is Sofiia
 - 🍄 I'm a beginner developer
-- 🌱 I’m currently learning .NET and Flutter
+- 🌱 I’m currently learning .NET
 - 🤓 I study in PPPC
-- 🔭 I’m currently working on Flutter Meditation App
+- 🔭 I’m currently working on consolidating my knowledge
 - ✨ Fun fact: I drew my avatar myself
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
