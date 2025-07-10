@@ -3,6 +3,7 @@
 - ☕ My name is Sofiia
 - 🍄 I've been coding for 4 years now
 - 🌱 My main stack now is Dart/Flutter
+- 🌞 I work well in a team, often successfully acting as a leader
 - 🔭 I’m currently working on my project Swayzy and Cedra blockchain support for Dart/Flutter
 - ✨ Fun fact: I drew my avatar myself
 
