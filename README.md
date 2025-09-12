@@ -4,7 +4,7 @@
 - 🍄 I've been coding for 4 years now
 - 🌱 My main stack now is Dart/Flutter
 - 🌞 I work well in a team, often successfully acting as a leader
-- 🔭 I’m currently working on my project Swayzy and Cedra blockchain support for Dart/Flutter
+- 🔭 I'm currently working on projects at work and studying at university
 - ✨ Fun fact: I drew my avatar myself
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
