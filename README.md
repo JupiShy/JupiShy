@@ -46,7 +46,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace&duration=4000&pause=1000&color=F7029C&center=true&vCenter=true&width=435&lines=Flutter+Developer;Fullstack+Developer;Product+design%2Fdevelopement+%3C3;Creative+%26+curious+soul+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace&duration=4000&pause=1000&color=F7029C&center=true&vCenter=true&width=435&lines=Flutter+Developer;Fullstack+Developer;Product+design%2Fdevelopement+%3C3;Creative+%26+curious+soul)](https://git.io/typing-svg)
 
 <img src="https://64.media.tumblr.com/dfa593f0b78d5fd0ee36774b91610f7a/a68225de33b9a289-9d/s540x810/d63896de33310abd9f75ae431ecaa63a3e776285.gifv" alt="NecoArc3" width="200"> ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JupiShy&layout=compact&theme=radical)
 
